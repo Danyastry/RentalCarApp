@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "477648448246",
+    "project_id": "carrentalapp-51317",
+    "storage_bucket": "carrentalapp-51317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477648448246:android:65f2fec9bf3580071a9ad7",
+        "android_client_info": {
+          "package_name": "com.example.rentalcarsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCetC3dwG3XXOynsM1n-AbgXMt6GTpzdy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
