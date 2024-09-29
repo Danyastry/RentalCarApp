@@ -1,10 +1,10 @@
 package com.example.rentalcarsapp
 
 import android.app.Application
-import com.example.rentalcarsapp.VIewModel.AuthViewModel
-import com.example.rentalcarsapp.VIewModel.CarSearchViewModel
-import com.example.rentalcarsapp.VIewModel.LuxCarsViewModel
-import com.example.rentalcarsapp.VIewModel.VipCarsViewModel
+import com.example.rentalcarsapp.presentation.auth.AuthViewModel
+import com.example.rentalcarsapp.presentation.search.CarSearchViewModel
+import com.example.rentalcarsapp.presentation.details.lux.LuxCarsViewModel
+import com.example.rentalcarsapp.presentation.details.vip.VipCarsViewModel
 import com.google.firebase.FirebaseApp
 import com.google.firebase.auth.FirebaseAuth
 import org.koin.android.ext.koin.androidContext
